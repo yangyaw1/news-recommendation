@@ -1,0 +1,19 @@
+.signup-panel {
+	margin: auto;
+	width: 30%;
+	padding-top: 50px;
+}
+
+.paper {
+	text-align: center;
+	display: auto;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+}
+
+.error-message {
+	padding-left: 20px;
+	color: red;
+}

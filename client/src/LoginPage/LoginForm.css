@@ -1,0 +1,16 @@
+.login-panel {
+	margin: auto;
+	width: 30%;
+	padding-top: 50px;
+}
+
+.paper {
+	text-align: center;
+	display: auto;
+	padding: 50px;
+}
+
+.error-message {
+	padding-left: 20px;
+	color: red;
+}
